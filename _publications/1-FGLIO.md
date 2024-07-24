@@ -2,7 +2,7 @@
 title: "Factor Graph Accelerator for LiDAR-Inertial Odometry"
 collection: publications
 permalink: /publication/1-FGLIO
-excerpt: #''
+excerpt: ' '
 date: 2022
 venue: 'IEEE/ACM International Conference On Computer Aided Design (ICCAD)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
