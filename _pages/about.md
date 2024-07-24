@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ABOUT ME"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,14 +10,15 @@ My name is **Yuhui Hao (郝宇辉)**. I am currently pursuing my PhD at the [Uni
 
 Before this, I completed my Bachelor and Master degrees at the [School of Microelectronics](https://sme.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/), under the guidance of Professor [Qiang Liu](https://faculty.tju.edu.cn/116022/zh_CN/index.htm). 
 
-My research interests include:
+Academic Background
+======
+* Sep 2017 - July 2021: Tianjin University, Bachelor of Engineering
+* Sep 2021 - July 2024: Tianjin University, Master of Engineering
+* Sep 2024 - Present: University of Chinese Academy of Sciences, PhD Candidate in Computer Science
+
+Research Interests
+======
 * Computer Architecture 
 * Autonomous Machine Computing 
 * Humanoid Robot 
 * Embodied AI Robot System
-
-ACADEMIC BACKGROUND
-======
-* Sep 2017 - July 2021: Tianjin University, Bachelor of Engineering.
-* Sep 2021 - July 2024: Tianjin University, Master of Engineering.
-* Sep 2024 - Present: University of Chinese Academy of Sciences, PhD Candidate in Computer Science.
