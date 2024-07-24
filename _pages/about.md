@@ -16,6 +16,12 @@ Academic Background
 * Sep 2021 - July 2024: Tianjin University, Master of Engineering
 * Sep 2024 - Present: University of Chinese Academy of Sciences, PhD Candidate in Computer Science
 
+Selected Publication
+======
+- [Factor Graph Accelerator for LiDAR-Inertial Odometry](https://yuhuihao.github.io) <br>**Yuhui Hao**, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu. <br>IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2022<br>
+- [An Energy Efficient and Runtime Reconfigurable Accelerator for Robotic Localization](https://yuhuihao.github.io) <br>Qiang Liu, **Yuhui Hao**, Weizhuang Liu, Bo Yu, Yiming Gan, Jie Tang, Shao-Shan Liu, Yuhao Zhu. <br>IEEE Transactions on Computers (TC), 2023<br>
+- [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://yuhuihao.github.io) <br>**Yuhui Hao**, Yiming Gan, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu. <br>60th ACM/IEEE Design Automation Conference (DAC), 2023<br>
+- [ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications](https://yuhuihao.github.io)<br>**Yuhui Hao**, Yiming Gan, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.<br> 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2024 <br>
 
 Research Interests
 ======
