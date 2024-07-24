@@ -16,7 +16,7 @@ Academic Background
 * Sep 2021 - July 2024: Tianjin University, Master of Engineering
 * Sep 2024 - Present: University of Chinese Academy of Sciences, PhD Candidate in Computer Science
 
-Selected Publication
+Selected Publications
 ======
 - [ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications](https://yuhuihao.github.io)<br>**Yuhui Hao**, Yiming Gan, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.<br> 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2024 <br>
 - [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://yuhuihao.github.io) <br>**Yuhui Hao**, Yiming Gan, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu. <br>60th ACM/IEEE Design Automation Conference (DAC), 2023<br>
