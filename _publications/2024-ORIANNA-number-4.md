@@ -2,7 +2,7 @@
 title: "ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications"
 collection: publications
 permalink: /publication/2024-ORIANNA-number-4
-excerpt: 'Qiang Liu, Yuhui Hao, Weizhuang Liu, Bo Yu, Yiming Gan, Jie Tang, Shao-Shan Liu, Yuhao Zhu'
+excerpt: 'Yuhui Hao, Yiming Gan, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu'
 date: 2024-10-01
 venue: 'Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
