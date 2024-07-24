@@ -10,13 +10,15 @@ My name is **Yuhui Hao (郝宇辉)**. I am currently pursuing my PhD at the [Uni
 
 Before this, I completed my Bachelor and Master degrees at the [School of Microelectronics](https://sme.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/), under the guidance of Professor [Qiang Liu](https://faculty.tju.edu.cn/116022/zh_CN/index.htm). 
 <br>
----
+
 
 Academic Background
 ======
 * Sep 2017 - July 2021: Tianjin University, Bachelor of Engineering
 * Sep 2021 - July 2024: Tianjin University, Master of Engineering
 * Sep 2024 - Present: University of Chinese Academy of Sciences, PhD Candidate in Computer Science
+<br>
+
 
 Selected Publications
 ======
@@ -24,6 +26,8 @@ Selected Publications
 - [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://yuhuihao.github.io) <br>**Yuhui Hao**, Yiming Gan, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu. <br>60th ACM/IEEE Design Automation Conference (DAC), 2023<br>
 - [An Energy Efficient and Runtime Reconfigurable Accelerator for Robotic Localization](https://yuhuihao.github.io) <br>Qiang Liu, **Yuhui Hao**, Weizhuang Liu, Bo Yu, Yiming Gan, Jie Tang, Shao-Shan Liu, Yuhao Zhu. <br>IEEE Transactions on Computers (TC), 2023<br>
 - [Factor Graph Accelerator for LiDAR-Inertial Odometry](https://yuhuihao.github.io) <br>**Yuhui Hao**, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu. <br>IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2022<br>
+<br>
+
 
 Research Interests
 ======
