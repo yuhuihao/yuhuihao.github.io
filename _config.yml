@@ -21,7 +21,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   name             : "Yuhui Hao (郝宇辉)"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Computer Science"
