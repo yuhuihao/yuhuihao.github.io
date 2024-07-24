@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuhui Hao"
+title                    : "Yuhui Hao's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yuhui Hao"
 description              : &description " "
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yuhui Hao (郝宇辉)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Computer Science"
-  location         : "Beijing, China"
-  employer         : "UCAS"
+  bio              : "University of Chinese Academy of Sciences"
+  location         : "Beijing China"
+  employer         : #"UCAS"
   uri              : #"https://yuhuihao.github.io/"
   email            : #"yuhuihao@tju.edu.cn" 
 
