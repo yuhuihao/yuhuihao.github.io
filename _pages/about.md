@@ -22,10 +22,12 @@ Academic Background
 
 Selected Publications
 ======
+- [Dadu-Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation](https://yuhuihao.github.io)<br>Yiyang Huang^1, **Yuhui Hao^1**, Bo Yu, Feng Yan, Yuxin Yang, Feng Min, Yinhe Han, Lin Ma, Shaoshan Liu, Qiang Liu, Yiming Gan.<br> 52nd Annual International Symposium on Computer Architecture (ISCA), 2025<br>
 - [ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications](https://yuhuihao.github.io)<br>**Yuhui Hao**, Yiming Gan, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.<br> 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2024 <br>
 - [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://yuhuihao.github.io) <br>**Yuhui Hao**, Yiming Gan, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu. <br>60th ACM/IEEE Design Automation Conference (DAC), 2023<br>
 - [An Energy Efficient and Runtime Reconfigurable Accelerator for Robotic Localization](https://yuhuihao.github.io) <br>Qiang Liu, **Yuhui Hao**, Weizhuang Liu, Bo Yu, Yiming Gan, Jie Tang, Shao-Shan Liu, Yuhao Zhu. <br>IEEE Transactions on Computers (TC), 2023<br>
 - [Factor Graph Accelerator for LiDAR-Inertial Odometry](https://yuhuihao.github.io) <br>**Yuhui Hao**, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu. <br>IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2022<br>
+- [Aphelios: A Selective Lock-step Neural Processing Unit Design](https://yuhuihao.github.io)<br>Wenhao Sun, Yiming Gan, **Yuhui Hao**, Yinhe Han.<br>Great Lakes Symposium on VLSI (GLSVLSI), 2025<br>
 <br>
 
 
